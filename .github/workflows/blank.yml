@@ -15,5 +15,5 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
         with:
-          devcard_id: "@priyanka17697"
+          devcard_id: "32aafc17b83d46f4ba8c3c21135e29e3"
 
